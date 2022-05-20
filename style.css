@@ -4,6 +4,7 @@
 /* Reset margin and padding */
 * {
     margin: 0;
+    font-size: 2rem;
     padding: 0;
 }
 
